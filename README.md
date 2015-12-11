@@ -165,6 +165,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 
 ## Integration
+* [Sugar Exchange Sync: Contacts by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/sugar-exchange-contacts) - Synchronizing contacts between SugarCRM and Microsoft Exchange.
 * [GrinMark Outlook 365 Plugin for SugarCRM - archive emails and 2-way contact sync](https://www.sugaroutfitters.com/addons/grinmark-outlook-365-addin-for-sugarcrm) on SugarOutfitters.com
 * [Tally Integration - create ledgers, sales orders, and more](https://www.sugaroutfitters.com/addons/sugarcrm-tally-integration) on SugarOutfitters.com
 * [ 1 - SugarCRM SMS Integration ] ( http://www.techextension.com/sugarcrm-suitecrm-sms-custom-module-integration.php ) This SugarCRM SMS Add-on provides feaures like send sms from crm and sms history in SugarCRM.
